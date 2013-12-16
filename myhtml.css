@@ -1,0 +1,6 @@
+#myhtml { width:98%; background-color: #EBEEF1; box-shadow:0 0 5px #EEE;
+	font-family: 'comic sans ms', fantasy !important; margin:20px auto;
+	border:1 !important; border-radius:9px; border-collapse:collapse; text-align:left;
+	padding-left:10px;padding-top:15px;height:75px;
+}
+#myhtml br { }

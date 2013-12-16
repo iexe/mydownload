@@ -1,0 +1,48 @@
+.clear{clear:both}
+a {color:#018EE8;text-decoration:none;}
+a:hover {text-decoration:underline;/*color:#FF0000;*/}
+li {list-style-type:none;}
+body {color:#888888;font-size:12px;margin:0;background:url("../images/mainbg.gif") repeat-x}
+#header {width:990px;margin:0 auto;height:100px;}
+#logo a{width:240px;height:100px;display:block;float:left}
+#logo span{display:none}
+#gsearch {float:right;padding-top:25px}
+#contain {width:990px;margin:0 auto;overflow:hidden}
+#sidebar {width:250px;float:left;border:1px solid #D2E8FA;}
+#main {width:738px;float:left;}
+#downcenter{margin-bottom:10px;}
+#downtop_left,#downtop_right{width:100%;/*float:left;width:460px;*/}
+#downtop_right{display:none/*width:260px*/}
+#declaration {margin:0 10px 10px 0;line-height:18px;}
+#declaration_text{border:1px solid #DDDDDD;padding:10px;}
+#filefrom {font-size:12px;font-weight:bold;margin:0;}
+#download {clear:both;overflow:hidden;margin-bottom:20px}
+#down_ad {background:#F9F9F9;border:1px solid #DDDDDD;padding:5px 5px 5px 20px;}
+#down_link {margin-top:10px;background:#EDF5FC;border:1px solid #AACCEE;padding:5px 5px 5px 20px;}
+.leftside,.rightside {float:left;width:360px;}
+.rightside {float:right;width:346px;margin-right:15px;/*border:1px solid #DDDDDD;padding:0 10px;*/}
+#tips{line-height:20px;border:1px solid #DDDDDD;margin:10px 10px 10px 0;padding:5px 10px;}
+#tips ol{margin:0;padding-left:0}
+#views{/*color:red*/}
+.part{padding:10px 0;border-bottom:1px solid #DDDDDD}
+.part_content{line-height:18px;padding:0 0 0 10px}
+.part_content p{margin:5px 0}
+#footer_bar{padding-top: 10px; clear: both; text-align: right;}
+#footer{margin:30px auto 10px auto;padding:5px 0;width:970px;text-align:center;border:1px solid #DDDDDD}
+
+#download_button_part{background:#f9f9f9;border-left:1px dashed #ccc;border-right:1px dashed #ccc;text-align:center}
+#download_button{margin:10px auto;height:40px;line-height:40px;font-size:14px;background:#d13b00;color:#fff;text-align:center;width:170px;display:block;text-decoration:none;cursor:pointer;padding-left: 40px;position:relative;display:inline-block;}
+#download_button:hover{background:#e73f00}
+#download_button span{background:#c83400 url("../images/dl_icon.png") no-repeat;display:block;width:40px;height:40px;position:absolute;top:0;left:0;cursor:pointer;}
+#download_button:hover span{background-position:-40px 0}
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2){  
+	#download_button span{background-image: url("../images/dl_icon@2x.png");background-size: 80px 40px; }
+}
+
+/* ==============================
+ *   RSS Post List
+ * ==============================*/
+.latest_posts{margin:0;padding:1px;}
+.latest_posts h3{height:25px;line-height:25px;margin:0;padding:0;background:#D2E8FA;text-align:center}
+.latest_posts li{padding:5px;list-style:none;border-top:1px dashed #D2E8FA}
+.latest_posts li a{display:block}

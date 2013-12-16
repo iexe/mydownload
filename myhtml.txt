@@ -1,0 +1,13 @@
+﻿<script>
+$(document).ready(function(){
+  $("button").click(function(){
+    $.post("/example/jquery/demo_test_post.asp",
+    {
+      name:"Donald Duck",
+      city:"Duckburg"
+    },
+
+    });
+  });
+});
+</script>
