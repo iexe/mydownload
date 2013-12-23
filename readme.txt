@@ -1,7 +1,7 @@
 ﻿=== Plugin Name ===
 Contributors:      exploit
-Donate link:       http://wwww.iiexe.com
-Requires at least: 1.0.0
+Donate link:       http://www.iiexe.com/han-hua/mydownload
+Requires at least: 1.0.1
 Tested up to:      1.0.1
 Stable tag:        iiexe,exploit,iiexe.com
 Tags:              iiexe,exploit,iiexe.com
@@ -33,7 +33,7 @@ Tags:              iiexe,exploit,iiexe.com
 == Changelog ==
 
 = 2012-02-28 0.5 =
-无聊写了这个小东西，供懒人添加版权说明
+无聊写了这个小东西，给网站添加一个下载中心的功能
 
 == Screenshots ==
 
