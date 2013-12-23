@@ -2,8 +2,8 @@
 
 /*
 Plugin Name: 下载中心插件
-Version:     1.0
-Plugin URI:  http://www.iiexe.com
+Version:     1.1
+Plugin URI:  http://www.iiexe.com/han-hua/mydownload
 Description: 所有要下载的内容会集中到一个下载中心去下载
 Author:      爱程序-Exploit
 Author URI:  http://www.iiexe.com
