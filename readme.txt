@@ -1,8 +1,8 @@
 ﻿=== Plugin Name ===
 Contributors:      exploit
 Donate link:       http://www.iiexe.com/han-hua/mydownload
-Requires at least: 1.0.1
-Tested up to:      1.0.1
+Requires at least: 3.8.0
+Tested up to:      3.8.0
 Stable tag:        iiexe,exploit,iiexe.com
 Tags:              iiexe,exploit,iiexe.com
 
